@@ -1,0 +1,16 @@
+[project]
+name = "ai-news-agg"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.112.0",
+    "feedparser>=6.0.12",
+    "ipykernel>=7.3.0",
+    "psycopg[binary]>=3.3.4",
+    "python-dotenv>=1.2.2",
+    "pyyaml>=6.0.3",
+    "sqlalchemy>=2.0.51",
+    "youtube-transcript-api>=1.2.4",
+]
