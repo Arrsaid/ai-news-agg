@@ -8,5 +8,6 @@ venv/
 .env
 
 # Divers
+.vscode/
 .DS_Store
 *.log
